@@ -12,3 +12,4 @@ Status:
 - Module 5 Completed
 - Module 6 Completed
 - Module 7 Completed
+Create MASTER_PLAN.md
